@@ -1,0 +1,16 @@
+#账号
+user_account: "2022654321"
+#运营商自己选择
+operator: 'telecom'
+#密码
+user_password: "87654321"
+
+# 填写示例
+# 账号
+# user_account: "2020123456"
+# 运营商自己选择
+# operator: 'cmcc'
+# 密码
+# user_password: "1234abcdef"
+
+# 注意，运营商需要从 'cmcc'（移动）、'telecom'（电信）、'unicom'（联通）中选择，其它选项均无效
