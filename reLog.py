@@ -49,6 +49,7 @@ def reLog():
     if result:
         if result[0] == '1':
             print("登出成功! 2秒后将尝试重新登录")
+            time.sleep(2)
         else:
             print("登出失败！程序即将退出")
             time.sleep(3)
